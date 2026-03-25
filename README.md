@@ -51,4 +51,3 @@ Demo Preview:
  🔤 A BSL alphabet reference chart.
  
  ⚙️ Real-time display of the predicted character.
-
