@@ -11,7 +11,6 @@ British Sign Language Character Recognition is a real-time gesture recognition s
 The system enables seamless human-computer interaction by recognizing hand gestures captured from a webcam. Using MediaPipe for landmark detection and a Random Forest classifier for prediction, it interprets single-hand BSL alphabets accurately and efficiently.
 Designed with accessibility in mind, this project aims to support communication for the hearing and speech-impaired community, providing a foundation for assistive technologies that make sign language recognition both interactive and intuitive.
 
-Overview:
 
 •	The application captures live video frames from the webcam.
 
@@ -23,7 +22,7 @@ Overview:
 
 Built using Python, OpenCV, and scikit-learn, with a lightweight web interface, the project demonstrates how deep learning-inspired models can drive inclusive, real-time communication systems.
 
-Tech Stack:
+TECH STACK:
 
 • Python -	Core language for backend and model logic
 
@@ -37,7 +36,7 @@ Tech Stack:
 
 • HTML, CSS, JavaScript - Interactive frontend demo
 
-Features:
+KEY FEATURES:
 
 🎥 Real-Time Recognition — Detects and predicts signs directly from webcam input.
 
@@ -49,7 +48,8 @@ Features:
 
 🔧 Modular Design — Ready for new gestures, datasets, or features.
 
-Demo Preview:
+
+DEMO PREVIEW:
 
  📸 A live camera preview for gesture detection.
 
