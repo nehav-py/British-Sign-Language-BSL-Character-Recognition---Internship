@@ -1,7 +1,11 @@
 # BRITISH SIGN LANGUAGE (BSL) CHARACTER RECOGNITION
 
-LIVE DEMO: https://british-sign-language-bsl-character.onrender.com
+🌐 LIVE DEMO
 
+👉 https://british-sign-language-bsl-character.onrender.com
+
+
+📌OVERVIEW
 
 British Sign Language Character Recognition is a real-time gesture recognition system that translates BSL hand signs into readable text using computer vision and machine learning.
 The system enables seamless human-computer interaction by recognizing hand gestures captured from a webcam. Using MediaPipe for landmark detection and a Random Forest classifier for prediction, it interprets single-hand BSL alphabets accurately and efficiently.
